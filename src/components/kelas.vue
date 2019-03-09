@@ -1,9 +1,9 @@
 <template>
 	<div>
 		<h1>Data Kelas</h1>
-		<input placeholder="Kelas"></input>
-		<input placeholder="Jurusan"></input>
-		<input placeholder="Keterangan"></input>
+		<input placeholder="Kelas">
+		<input placeholder="Jurusan">
+		<input placeholder="Keterangan">
 		<br>
 		<button>Tambah</button>
 		<table>
