@@ -10,4 +10,4 @@ Ada 2 file komponen dalam project ini, yang pertama adalah 'kelas' dan 'siswa'.
 
 ### Cara Kerja
 
-disini digunakan router-link di setiap link yang akan diarahkan ke komponen tertentu. Misalnya , ingin membuat link 'tempat' yang akan berarah ke formtempat, maka masukan router-link di bagian link tempat. dan jangan lupa juga untuk memasukan routes nya di file index.js.
+Disini digunakan router-link di setiap link yang akan diarahkan ke komponen tertentu. Misalnya , ingin membuat link 'kelas' yang akan berarah ke form kelas, maka masukan *router-link* di bagian link tempat. dan jangan lupa juga untuk memasukan routes nya di file *index.js*.
