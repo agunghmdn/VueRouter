@@ -1,29 +1,13 @@
-# vueroute
+# Vue Router
 
-## Project setup
-```
-npm install
-```
+Vue.js memiliki router resmi, yaitu Vue Router yang berguna untuk melakukan routing serta membangun SPA (Single Page Application). Routing mengatur alur seluruh halaman website. Dengan menggunakan Vue Router, navigasi antar halaman bisa dilakukan tanpa perlu reload dan passing parameter query pun lebih mudah dilakukan. Fitur Vue Router lainnya bisa dilihat di Router: Introduction.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Penjelasan
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### File
 
-### Run your tests
-```
-npm run test
-```
+Ada 2 file komponen dalam project ini, yang pertama adalah 'kelas' dan 'siswa'.
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Cara Kerja
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+disini digunakan router-link di setiap link yang akan diarahkan ke komponen tertentu. Misalnya , ingin membuat link 'tempat' yang akan berarah ke formtempat, maka masukan router-link di bagian link tempat. dan jangan lupa juga untuk memasukan routes nya di file index.js.
